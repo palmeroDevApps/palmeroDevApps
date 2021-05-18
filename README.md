@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Cristian Palmero
+- 👀 I’m interested in fullstack developing
+- 🌱 I’m currently learning Mulesoft
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me cristian_palmero2001@hotmail.com
